@@ -1,0 +1,20 @@
+Name: joy
+Roll No: 101
+Age: 12
+Course: bscit
+
+Name: riv
+Roll No: 2
+Age: 45
+Course: bca
+
+Name: e
+Roll No: 3
+Age: 34
+Course: as
+
+Name: asdf
+Roll No: 4
+Age: 23
+Course: asdf
+
